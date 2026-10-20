@@ -5,4 +5,4 @@
   </picture>
 </a>
 
-<a href="https://yanori.gg"><img src="assets/yanori.png" width="50%" alt="Yanori"></a><a href="https://tuck.video"><img src="assets/tuck.png" width="50%" alt="Tuck"></a>
+<a href="https://yanori.gg"><img src="https://aech.wtf/github/yanori.png" width="50%" alt="Yanori"></a><a href="https://tuck.video"><img src="https://aech.wtf/github/tuck.png" width="50%" alt="Tuck"></a>
