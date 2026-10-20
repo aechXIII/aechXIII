@@ -1,7 +1,7 @@
 <a href="https://aech.wtf">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hands-dark.png">
-    <img src="assets/hands-light.png" alt="aech.wtf">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hands-dark.avif">
+    <img src="assets/hands-light.avif" alt="aech.wtf">
   </picture>
 </a>
 
