@@ -1,0 +1,8 @@
+<a href="https://aech.wtf">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hands-dark.png">
+    <img src="assets/hands-light.png" alt="aech.wtf">
+  </picture>
+</a>
+
+<a href="https://yanori.gg"><img src="assets/yanori.png" width="50%" alt="Yanori"></a><a href="https://tuck.video"><img src="assets/tuck.png" width="50%" alt="Tuck"></a>
